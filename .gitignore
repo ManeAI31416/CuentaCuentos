@@ -1,0 +1,5 @@
+documents/
+.env
+stories/
+web_scrap.py
+llm_lc_hf.py

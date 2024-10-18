@@ -1,0 +1,3 @@
+# Cuentacuentos Ecológico
+
+El proyecto tiene como *objetivo* transformar noticias sobre extinción de especies, deforestación, cambio climático e incendios en cuentos educativos para niños. Utilizando técnicas avanzadas de Inteligencia Artificial (IA) potenciados por la familia de LLMs de Meta AI **Llama 3**, buscamos fomentar la conciencia ambiental en los más pequeños y empoderarlos con soluciones prácticas. La herramienta combina educación ambiental, narración creativa y tecnología de IA para hacer accesibles y emocionantes temas complejos.
